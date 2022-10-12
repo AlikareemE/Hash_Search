@@ -1,4 +1,4 @@
-### Hash_Search
+### Hash Search
 To search for a file that contains md5, sha1 or sha256, just select the file and the script will extract the hash and search for it in VirusTotal and fetch the result
 
 ## Requirements
